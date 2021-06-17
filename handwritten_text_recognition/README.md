@@ -1,0 +1,1 @@
+# This repo contains all the code and requirements of the handwritten model
