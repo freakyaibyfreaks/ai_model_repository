@@ -1,0 +1,1 @@
+from credentials.credentials import access_key_id, secret_access_key
