@@ -1,2 +1,0 @@
-access_key_id='AKIAQGBZASKS5SZPQBVU'
-secret_access_key='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'
