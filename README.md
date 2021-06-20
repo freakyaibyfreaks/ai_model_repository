@@ -11,7 +11,7 @@ This repo contains all the models of freakyai in a single repository.
 2. source env/bin/activate
 
 ## Step-3 -> install the required dependencies
-1. pip3 install requirements/requirements_<model-repository-name>.txt
+1. pip3 install requirements/requirements_mymodel-repository-name.txt
 
 ## Step-4 -> Follow the instructions of the specific project
 1. Go to the specific project and follow the README.md file of that project.
