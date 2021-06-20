@@ -7,6 +7,6 @@
     Currently these 5 values are allowed
     a) bentham
     b) iam
-    c) rimes
+    c) rimes(Inprogress)
     d) saintgall
     e) washington
