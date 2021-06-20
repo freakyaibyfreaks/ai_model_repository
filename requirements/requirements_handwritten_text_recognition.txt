@@ -1,5 +1,7 @@
-editdistanc>=0.5.3
+boto3>=1.17.97
+botocore>=1.20.97
+editdistance>=0.5.3
 kaldiio>=2.17.2
-opencv-python>=4.5.2.52
+opencv-python>=4.0.3.38
 tensorflow>=2.5.0
 tqdm>=4.60.0

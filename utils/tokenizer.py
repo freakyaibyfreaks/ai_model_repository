@@ -19,7 +19,7 @@ class Tokenizer():
 
         self.PAD = self.chars.find(self.PAD_TK)
         self.UNK = self.chars.find(self.UNK_TK)
-
+ 
         self.vocab_size = len(self.chars)
         self.maxlen = max_text_length
 

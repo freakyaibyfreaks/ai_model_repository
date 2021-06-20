@@ -15,6 +15,9 @@ import string
 import numpy as np
 
 class DataPreproc:
+    """ Constructor """
+    def __init__(self):
+        pass
     
     def adjust_to_see(img):
         """Rotate and transpose to image visualize (cv2 method or jupyter notebook)"""

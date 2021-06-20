@@ -13,7 +13,6 @@ import unicodedata
 
 class DataGenerator():
     """Generator class with data streaming"""
-
     def __init__(self, source, batch_size, charset, max_text_length, predict=False, stream=False):
         self.tokenizer = Tokenizer(charset, max_text_length)
         self.batch_size = batch_size
