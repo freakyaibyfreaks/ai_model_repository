@@ -4,7 +4,8 @@ This repo contains all the models of freakyai in a single repository.
 # How to run the code
 
 ## Step-1 -> Get the .env file of the project
-1. All the variables available in the .env.example should match the .env file.
+1. Create a file in credentials folder named credentials and get the required variables
+    from team mate and make sure you have all the variables that are in credentials.example.py.
 
 ## Step-2 -> Create/Activate the virtual environment
 1. python3 -m venv env

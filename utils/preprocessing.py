@@ -21,7 +21,6 @@ class DataPreproc:
     
     def adjust_to_see(img):
         """Rotate and transpose to image visualize (cv2 method or jupyter notebook)"""
-
         (h, w) = img.shape[:2]
         (cX, cY) = (w // 2, h // 2)
 
