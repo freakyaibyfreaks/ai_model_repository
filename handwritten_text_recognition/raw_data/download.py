@@ -12,7 +12,6 @@ sys.path.append('../../')
 from utils.s3_download import DownloadData
 
 BUCKET_NAME = 'data-handwritten-model' # Bucket name
-KEY = 'saintgalldb.zip' # Object key
 
 # Dataset and name mapping
 dataset_enum = ['bentham','iam', 'rimes', 'saintgall', 'washington']
