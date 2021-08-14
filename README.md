@@ -4,18 +4,11 @@ This repository contains all the models of FreakyAI in a single repository.
 
 # How to run the code
 
-<<<<<<< HEAD
 ## Step-1 -> Get the .env file of the project
 1. Create a file in credentials folder 
     - credentials/credentials.py 
     get the required variables from team mate and make sure you have all the variables that are in credentials.example.py
-=======
-## 1 > Get the .env file of the project
-
-1. Create a file in credentials folder named credentials and get the required variables
-   from team mate and make sure you have all the variables that are in credentials.example.py.
->>>>>>> da6bdf076eaef38e841e074a11a04376647fe0d0
-
+ 
 ## Step-2 -> Create/Activate the virtual environment
 
 1. python3 -m venv env
