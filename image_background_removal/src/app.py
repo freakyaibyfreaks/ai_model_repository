@@ -2,13 +2,13 @@ from rembg.bg import remove
 import numpy as np
 import io
 from PIL import Image
-# import sys
+import sys
 
-# # Adding parent's path
-# sys.path.append('../../')
-
-input_path = 'handbag.png'
-output_path = 'out.png'
+# Adding parent's path
+sys.path.append('../../')
+ 
+input_path = '../../image_background_removal/data/input/input.png'
+output_path = '../../image_background_removal/data/output/output.png'
 
 f = np.fromfile(input_path)
 result = remove(f)
