@@ -2,6 +2,8 @@
 
 This repository contains all the models of FreakyAI in a single repository.
 
+# How to clone resources on google drive
+  https://medium.com/analytics-vidhya/how-to-use-google-colab-with-github-via-google-drive-68efb23a42d
 # How to run the code
 
 ## Step-1 -> Get the .env file of the project
